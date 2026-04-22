@@ -16,7 +16,7 @@ The agent is designed to:
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone (https://github.com/deepoo07/autostream-agent)
 cd autostream-agent
 ```
 
